@@ -1,0 +1,40 @@
+Git >> Version COntrol
+    
+    v1
+    v2
+    v3
+new v4
+
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+https://git-scm.com/install/windows
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+>> for 1st time need to configure github in our system
+git config --global user.name "raman428"
+git config --global user.email "ramakant2005pc@gamil.com"
+
+git config --global color.ui auto
+
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/raman428/gitdemo.git
+
+
+git pull origin main
+git status
+
+
+git add .
+git status
+git commit -m "Commint Message"
+git push
